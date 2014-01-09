@@ -35,7 +35,7 @@
     <repositories>
         <repository>
             <id>markryan-github-repository</id>
-            <url>https://github.com/markryan/maven-repo/raw/master/repository/</url>
+            <url>https://github.com/markwryan/maven-repo/tree/master/repository</url>
         </repository>
     </repositories>
 
