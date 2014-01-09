@@ -6,7 +6,6 @@ import com.markryan.flac_it.view.SingleTrackView;
 
 import java.awt.Color;
 import java.awt.Font;
-import java.awt.Graphics;
 import java.awt.dnd.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
